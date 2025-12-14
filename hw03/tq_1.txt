@@ -1,0 +1,120 @@
+TQ=1
+total_ticks=63, ctx_switches=62, idle_ticks=0
+avg_wait=33.20, min_wait=15, max_wait=53
+wait_each=[45, 22, 15, 40, 31, 53, 18, 27, 32, 49]
+TQ=1
+total_ticks=74, ctx_switches=70, idle_ticks=0
+avg_wait=47.70, min_wait=9, max_wait=64
+wait_each=[9, 59, 64, 50, 58, 23, 51, 64, 37, 62]
+TQ=1
+total_ticks=65, ctx_switches=62, idle_ticks=4
+avg_wait=35.90, min_wait=22, max_wait=50
+wait_each=[42, 45, 34, 46, 22, 23, 40, 25, 32, 50]
+TQ=1
+total_ticks=69, ctx_switches=67, idle_ticks=3
+avg_wait=39.90, min_wait=21, max_wait=57
+wait_each=[55, 52, 35, 21, 22, 23, 47, 57, 49, 38]
+TQ=1
+total_ticks=61, ctx_switches=60, idle_ticks=0
+avg_wait=34.00, min_wait=7, max_wait=51
+wait_each=[48, 39, 11, 50, 51, 47, 26, 7, 34, 27]
+TQ=1
+total_ticks=69, ctx_switches=73, idle_ticks=0
+avg_wait=48.00, min_wait=14, max_wait=60
+wait_each=[52, 36, 53, 59, 14, 47, 57, 55, 47, 60]
+TQ=1
+total_ticks=61, ctx_switches=60, idle_ticks=0
+avg_wait=28.60, min_wait=0, max_wait=50
+wait_each=[0, 29, 10, 43, 18, 42, 37, 20, 37, 50]
+TQ=1
+total_ticks=61, ctx_switches=58, idle_ticks=0
+avg_wait=27.70, min_wait=7, max_wait=45
+wait_each=[45, 29, 11, 42, 43, 13, 44, 35, 7, 8]
+TQ=1
+total_ticks=63, ctx_switches=68, idle_ticks=1
+avg_wait=35.50, min_wait=10, max_wait=48
+wait_each=[48, 10, 46, 44, 21, 48, 23, 48, 39, 28]
+TQ=1
+total_ticks=62, ctx_switches=65, idle_ticks=0
+avg_wait=37.10, min_wait=9, max_wait=53
+wait_each=[30, 35, 19, 39, 38, 52, 52, 53, 44, 9]
+TQ=1
+total_ticks=67, ctx_switches=66, idle_ticks=3
+avg_wait=35.70, min_wait=11, max_wait=53
+wait_each=[20, 53, 46, 30, 46, 17, 42, 43, 49, 11]
+TQ=1
+total_ticks=65, ctx_switches=68, idle_ticks=1
+avg_wait=41.30, min_wait=23, max_wait=52
+wait_each=[37, 25, 49, 41, 44, 51, 43, 48, 52, 23]
+TQ=1
+total_ticks=58, ctx_switches=53, idle_ticks=3
+avg_wait=24.70, min_wait=0, max_wait=44
+wait_each=[0, 44, 38, 42, 12, 5, 23, 39, 8, 36]
+TQ=1
+total_ticks=74, ctx_switches=73, idle_ticks=3
+avg_wait=43.40, min_wait=13, max_wait=62
+wait_each=[25, 58, 54, 59, 13, 42, 62, 33, 34, 54]
+TQ=1
+total_ticks=77, ctx_switches=72, idle_ticks=2
+avg_wait=45.10, min_wait=16, max_wait=65
+wait_each=[60, 19, 41, 55, 36, 63, 38, 16, 58, 65]
+TQ=1
+total_ticks=68, ctx_switches=67, idle_ticks=1
+avg_wait=35.40, min_wait=0, max_wait=57
+wait_each=[0, 57, 22, 55, 51, 51, 12, 36, 56, 14]
+TQ=1
+total_ticks=53, ctx_switches=56, idle_ticks=0
+avg_wait=29.50, min_wait=11, max_wait=41
+wait_each=[38, 29, 11, 12, 41, 34, 40, 35, 17, 38]
+TQ=1
+total_ticks=66, ctx_switches=64, idle_ticks=3
+avg_wait=40.10, min_wait=22, max_wait=52
+wait_each=[46, 49, 47, 39, 22, 52, 41, 44, 26, 35]
+TQ=1
+total_ticks=51, ctx_switches=55, idle_ticks=0
+avg_wait=34.00, min_wait=15, max_wait=43
+wait_each=[29, 30, 30, 37, 41, 43, 15, 39, 36, 40]
+TQ=1
+total_ticks=74, ctx_switches=75, idle_ticks=0
+avg_wait=49.80, min_wait=33, max_wait=64
+wait_each=[64, 41, 42, 61, 48, 33, 60, 36, 58, 55]
+TQ=1
+total_ticks=62, ctx_switches=64, idle_ticks=0
+avg_wait=36.30, min_wait=0, max_wait=52
+wait_each=[0, 35, 51, 52, 44, 39, 45, 15, 52, 30]
+TQ=1
+total_ticks=63, ctx_switches=63, idle_ticks=0
+avg_wait=33.10, min_wait=5, max_wait=52
+wait_each=[42, 29, 40, 33, 25, 5, 52, 44, 45, 16]
+TQ=1
+total_ticks=71, ctx_switches=73, idle_ticks=0
+avg_wait=46.30, min_wait=16, max_wait=61
+wait_each=[16, 55, 17, 39, 61, 60, 59, 52, 49, 55]
+TQ=1
+total_ticks=61, ctx_switches=62, idle_ticks=1
+avg_wait=32.80, min_wait=5, max_wait=50
+wait_each=[48, 40, 44, 37, 27, 5, 14, 47, 16, 50]
+TQ=1
+total_ticks=65, ctx_switches=64, idle_ticks=0
+avg_wait=35.00, min_wait=2, max_wait=55
+wait_each=[55, 50, 2, 15, 47, 22, 39, 40, 54, 26]
+TQ=1
+total_ticks=80, ctx_switches=73, idle_ticks=5
+avg_wait=48.60, min_wait=8, max_wait=63
+wait_each=[63, 56, 63, 54, 60, 42, 43, 47, 8, 50]
+TQ=1
+total_ticks=53, ctx_switches=49, idle_ticks=2
+avg_wait=31.10, min_wait=16, max_wait=42
+wait_each=[39, 42, 28, 29, 29, 32, 23, 41, 16, 32]
+TQ=1
+total_ticks=66, ctx_switches=67, idle_ticks=1
+avg_wait=31.40, min_wait=4, max_wait=53
+wait_each=[17, 31, 45, 25, 4, 33, 14, 46, 46, 53]
+TQ=1
+total_ticks=49, ctx_switches=48, idle_ticks=3
+avg_wait=21.80, min_wait=5, max_wait=35
+wait_each=[22, 29, 35, 23, 27, 5, 19, 15, 8, 35]
+TQ=1
+total_ticks=70, ctx_switches=69, idle_ticks=3
+avg_wait=41.00, min_wait=14, max_wait=55
+wait_each=[43, 44, 55, 23, 50, 37, 14, 51, 41, 52]
